@@ -1,0 +1,6 @@
+[submodule "adaptive-data-access-framework"]
+	path = adaptive-data-access-framework
+	url = https://github.com/faiyaz103/adaptive-data-access-framework.git
+[submodule "adaptive-data-access-framework-dataset-and-model"]
+	path = adaptive-data-access-framework-dataset-and-model
+	url = https://github.com/faiyaz103/adaptive-data-access-framework-dataset-and-model.git
